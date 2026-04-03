@@ -95,7 +95,7 @@ print("SCREENSHOT TOOL")
 print("==============")
 print("1 → Full screen")
 print("2 → Window")
-print("SPACE → Capture")
+print("s → Capture")
 print("ESC → Exit")
 print("==============")
 
